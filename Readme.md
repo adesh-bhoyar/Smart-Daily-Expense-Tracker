@@ -27,7 +27,7 @@ Prompts were focused on:
 - MVVM architecture with Room database
 
 ## 📦 APK Download
-[Download APK](./app-release.apk)
+[Download APK](./app-debug.apk)
 
 ## 🖼️ Screenshots
 | Home Screen | Expense Entry | Report |
