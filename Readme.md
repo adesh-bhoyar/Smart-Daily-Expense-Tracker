@@ -29,11 +29,6 @@ Prompts were focused on:
 ## 📦 APK Download
 [Download APK](./app-debug.apk)
 
-## 🖼️ Screenshots
-| Home Screen | Expense Entry | Report |
-|-------------|---------------|--------|
-| ![](screenshots/home_screen.png) | ![](screenshots/expense_entry.png) | ![](screenshots/report_screen.png) |
-
 ## 📄 Resume
 See [resume.pdf](./Adesh_Bhoyar_Android_Developer.pdf)
 
