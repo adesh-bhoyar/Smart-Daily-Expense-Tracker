@@ -35,7 +35,7 @@ Prompts were focused on:
 | ![](screenshots/home_screen.png) | ![](screenshots/expense_entry.png) | ![](screenshots/report_screen.png) |
 
 ## 📄 Resume
-See [resume.pdf](./resume.pdf)
+See [resume.pdf](./Adesh_Bhoyar_Android_Developer.pdf)
 
 ---
 
